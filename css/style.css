@@ -52,7 +52,7 @@ header img, footer img{
     line-height: 40px;
     width: 200px;
     text-align: center;
-    /* display: none; */
+    display: none;
     transition: .6s;
 }
 
